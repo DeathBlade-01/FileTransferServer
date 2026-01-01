@@ -112,7 +112,7 @@ The app will work offline after first load
 
 **A.** When you start the server with node server.js, it automatically displays both the local and network IP addresses in the console. The network IP (usually starting with 192.168.x.x) is what you'll use on other devices. Both devices must be connected to the same WiFi network.
 
-#### Q. Is my data secure? Can others access my files??
+#### Q. Is my data secure? Can others access my files?
 
 **A.** Your files are only accessible on your local network - they never leave your WiFi and don't go through the internet. However, anyone on your WiFi network can access the server if they know the IP address. For sensitive files, only use this on trusted networks (like your home WiFi), not public WiFi.
 
