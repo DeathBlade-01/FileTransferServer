@@ -1,4 +1,20 @@
-File Transfer PWA
+# File Transfer PWA
+Local file & clipboard sharing across devices — no cloud, no cables.
+
+A Progressive Web App for seamless file and clipboard sharing across devices on your local network. Perfect for quickly transferring files, screenshots, and text between your phone, tablet, and computer without cloud services or cables.
+
+This project is primarily aimed for transferring files between devices connected on a common trusted network, without relying on additional software.
+## API References
+
+## Table of Contents
+1. Features
+2. Installation
+3. API Reference
+4. Demo
+5. Deployment
+6. FAQ
+7. License
+
 
 A Progressive Web App for seamless file and clipboard sharing across devices on your local network. Perfect for quickly transferring files, screenshots, and text between your phone, tablet, and computer without cloud services or cables.
 
@@ -21,7 +37,6 @@ This project is primarily aimed for transferring files between devices connected
 
 ## Demo
 
-Insert gif or link to demo
 
 
 ## Deployment
