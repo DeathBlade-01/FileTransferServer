@@ -13,7 +13,7 @@ This project is primarily aimed for transferring files between devices connected
 4. Demo
 5. Deployment
 6. FAQ
-7. License
+
 
 
 A Progressive Web App for seamless file and clipboard sharing across devices on your local network. Perfect for quickly transferring files, screenshots, and text between your phone, tablet, and computer without cloud services or cables.
